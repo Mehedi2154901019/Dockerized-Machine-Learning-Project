@@ -4,7 +4,7 @@ This project is a **machine learning app** to predict laptop prices using `sciki
 
 ---
 
-![docker desktop](assets/docker desktop.png)
+![docker desktop](assets/docker_desktop.png)
 
 ---
 
@@ -35,7 +35,11 @@ cd laptop-price-predictor-regression-project
 streamlit
 scikit-learn
 ```
+---
 
+![vscode](assets/vscode.png)
+
+---
 #### Create `Dockerfile`
 
 ```Dockerfile
@@ -69,6 +73,9 @@ docker run -p 8501:8501 yourdockerhubname/laptop-price-predictor
 ```
 
 > 🔗 Open your browser and go to: [http://localhost:8501](http://localhost:8501)
+---
+
+![streamlit](assets/streamlit.png)
 
 ---
 
@@ -88,6 +95,9 @@ docker push yourdockerhubname/laptop-price-predictor
 
 ---
 
+![dockerhub](assets/docker_hub.png)
+
+---
 ## 📥 Pull from Docker Hub (Optional)
 
 If the image exists on Docker Hub:
