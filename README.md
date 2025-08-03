@@ -6,6 +6,8 @@ This project is a **machine learning app** to predict laptop prices using `sciki
 
 ![docker desktop](assets/docker desktop.png)
 
+---
+
 ## 📦 Features
 
 - Predict laptop prices based on various specs
